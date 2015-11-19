@@ -30,3 +30,10 @@
 
 # Debug files
 *.dSYM/
+
+
+#include  <stdio.h>
+void main()
+{
+  printf("您好，github");
+}
